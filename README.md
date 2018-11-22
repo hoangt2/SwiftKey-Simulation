@@ -1,2 +1,2 @@
 # SwiftKey-Simulation
-Link to Shiny App: https://www.shinyapps.io/admin/#/application/578681
+Link to Shiny App: https://hoangt2.shinyapps.io/SwiftKeySimulation/
